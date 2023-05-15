@@ -1,7 +1,9 @@
-# DAWM2023
 ## Proyectos
+* Calculadora
+* Banco
+* Facturación
+* Social media
 * Hospital
-* ### Pasantías
 ## Ingeniería de requisitos
 ## Diseño de experiencia de usuario
 ## Diseño de interfaces

@@ -2,14 +2,19 @@
 ### Linkedin:
 Aquí puedes *encontrarme* [_MiLinkedIn_](https://www.linkedin.com/in/kathmoralest)
 ## Proyectos
-* Cajero Automático
+
+Programación
+
+- Cajero Automático
 
   Java, Java FX.
   
-* Sistema de Ventas
+- Sistema de Ventas
 
   C, PHPMyAdmin.
   
+Desarrollo de Interfaces
+
 * Social media
 
   El tinder para __mascotas__.

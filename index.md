@@ -1,6 +1,6 @@
 # Katherine Morales Tierra &copy;
 ### Linkedin:
-Aquí puedes **encontrarme** [_MiLinkedIn_](https://www.linkedin.com/in/kathmoralest)
+Aquí puedes *encontrarme* [_MiLinkedIn_](https://www.linkedin.com/in/kathmoralest)
 ## Proyectos
 * Cajero Automático
 
@@ -12,29 +12,29 @@ Aquí puedes **encontrarme** [_MiLinkedIn_](https://www.linkedin.com/in/kathmora
   
 * Social media
 
-  El tinder para *mascotas*.
+  El tinder para __mascotas__.
 
   ![PetPro](/images/petpro.png)
   
 * Hospital
   
-  Módulo de Consulta Externa
+  - Módulo de Consulta Externa
   
   ![Consulta Externa](/images/cexterna.png)  
 
-  Módulo de Hospitalización
+  - Módulo de Hospitalización
   
   ![Hospitalización](/images/hospitalizacion.png)
 
-  Módulo de Emergencia
+  - Módulo de Emergencia
   
-  ![Emergencia](/images/emergencia.png)
+  ![Emergencia- ](/images/emergencia.png)
 
 ## Habilidades
 
   | **Área** | **Dominio** |
   | - | - |
-  | Ingeniería de requisitos | Avanzado |
-  | Diseño de experiencia de usuario | Avanzado |
-  | Diseño de interfaces | Avanzado |
-  | Testeo | Intermedio |
+  | Ingeniería de requisitos | _Avanzado_ |
+  | Diseño de experiencia de usuario | _Avanzado_ |
+  | Diseño de interfaces | _Avanzado_ |
+  | Testeo | _Intermedio_ |

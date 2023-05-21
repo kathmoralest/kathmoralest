@@ -18,15 +18,15 @@ Aquí puedes *encontrarme* [_MiLinkedIn_](https://www.linkedin.com/in/kathmorale
   
 * Hospital
   
-  - Módulo de Consulta Externa
+  1. Módulo de Consulta Externa
   
   ![Consulta Externa](/images/cexterna.png)  
 
-  - Módulo de Hospitalización
+  2. Módulo de Hospitalización
   
   ![Hospitalización](/images/hospitalizacion.png)
 
-  - Módulo de Emergencia
+  3. Módulo de Emergencia
   
   ![Emergencia- ](/images/emergencia.png)
 
